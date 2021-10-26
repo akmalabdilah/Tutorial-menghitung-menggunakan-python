@@ -37,3 +37,6 @@ luas <- phi*r*r;
 write (luas);'<p>'
 
 Sekian dari saya jika ada kekurangan saya minta maaf semoga bermanfaat'<p>'
+
+Tambahan foto eksekusi program Python + Pycharm'<p>'
+![Gambar 5](screenshoot/s5.JPG)
